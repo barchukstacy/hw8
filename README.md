@@ -2,4 +2,4 @@
 ## Создание ориентированного графа своих друзей из Вконтакте.
 
 Собрав данные из ВК, применив различные фильтры и рассчитав модулярность, в итоге получился вот такой граф:
-![](https://github.com/barchukstacy/hw8/blob/master/gephi%20VK%20friends.pdf).png)
+![](https://github.com/barchukstacy/hw8/blob/master/gephi%20VK%20friends.pdf)
